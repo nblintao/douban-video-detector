@@ -28,7 +28,7 @@
 3. 用文本编辑器打开`douban_video_detector.py`文件，做如下改动：
 
     1. 用你在第1步中得到的豆伴文件名，替换`orgin_filename` 引号中的样例。
-    2. 在浏览器（推荐Chrome）中打开开发者工具，在登录状态下访问一个豆瓣网页（如 https://movie.douban.com/subject/25754848/ ），如下图所示得到“Response Headers”。复制，用它替换`header_str`引号中的样例。![](pics/2.png)
+    2. 在浏览器（推荐Chrome）中打开开发者工具，在登录状态下访问一个豆瓣网页（如 https://movie.douban.com/subject/25754848/ ），如下图所示得到“Request Headers”。复制，用它替换`header_str`引号中的样例。![](pics/2.png)
 
 4. 打开命令行，安装python3和需要的包。比如在macOS上，打开“终端”执行：
 
