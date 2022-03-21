@@ -1,5 +1,5 @@
 # https://github.com/nblintao/douban-video-detector
-# Author: Tao Lin (nblintao@gmail.com)
+# Author: Tao Lin (visor_bulgur_0i@icloud.com)
 
 from openpyxl import load_workbook
 import requests
